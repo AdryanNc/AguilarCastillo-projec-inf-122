@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AguilarCastillo-projec-inf-122/static/css/main.c1fc2ccf.css",
-    "main.js": "/AguilarCastillo-projec-inf-122/static/js/main.29f1eee1.js",
+    "main.css": "/AguilarCastillo-projec-inf-122/static/css/main.62fe4d94.css",
+    "main.js": "/AguilarCastillo-projec-inf-122/static/js/main.ffbdd183.js",
     "static/js/787.917857b7.chunk.js": "/AguilarCastillo-projec-inf-122/static/js/787.917857b7.chunk.js",
     "static/media/CaviarDreams_Italic.ttf": "/AguilarCastillo-projec-inf-122/static/media/CaviarDreams_Italic.0fc8f52088eaaec2a0b7.ttf",
     "static/media/img-emergencia.jpg": "/AguilarCastillo-projec-inf-122/static/media/img-emergencia.1f6f1a86372130847a44.jpg",
@@ -21,12 +21,12 @@
     "static/media/linkedin.png": "/AguilarCastillo-projec-inf-122/static/media/linkedin.793a76008e86eb4e8160.png",
     "static/media/img-grupo-medicos.jpg": "/AguilarCastillo-projec-inf-122/static/media/img-grupo-medicos.5cd25d8110e7bb3055a9.jpg",
     "index.html": "/AguilarCastillo-projec-inf-122/index.html",
-    "main.c1fc2ccf.css.map": "/AguilarCastillo-projec-inf-122/static/css/main.c1fc2ccf.css.map",
-    "main.29f1eee1.js.map": "/AguilarCastillo-projec-inf-122/static/js/main.29f1eee1.js.map",
+    "main.62fe4d94.css.map": "/AguilarCastillo-projec-inf-122/static/css/main.62fe4d94.css.map",
+    "main.ffbdd183.js.map": "/AguilarCastillo-projec-inf-122/static/js/main.ffbdd183.js.map",
     "787.917857b7.chunk.js.map": "/AguilarCastillo-projec-inf-122/static/js/787.917857b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1fc2ccf.css",
-    "static/js/main.29f1eee1.js"
+    "static/css/main.62fe4d94.css",
+    "static/js/main.ffbdd183.js"
   ]
 }
